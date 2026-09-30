@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pulseframe",
+      "hasCanvas": false,
+      "bodyTextLen": 226,
+      "bodyTextHash": "fd8cc8701af02ad2d654ea42eb806d67f0ed3b9e7c1670efcc17793b5982f91b",
+      "bodyTextPrefix": "PULSEFRAME Тишина ВИДЕО × ЗВУК Ролики дышат вместе с музыкой Мик",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pulseframe",
+      "hasCanvas": false,
+      "bodyTextLen": 226,
+      "bodyTextHash": "fd8cc8701af02ad2d654ea42eb806d67f0ed3b9e7c1670efcc17793b5982f91b",
+      "bodyTextPrefix": "PULSEFRAME Тишина ВИДЕО × ЗВУК Ролики дышат вместе с музыкой Мик",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
